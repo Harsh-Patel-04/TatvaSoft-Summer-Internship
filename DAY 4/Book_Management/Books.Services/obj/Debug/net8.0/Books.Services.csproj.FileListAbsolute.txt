@@ -1,0 +1,30 @@
+D:\Summer Internship\Book_Management\Books.Services\bin\Debug\net8.0\Books.Services.deps.json
+D:\Summer Internship\Book_Management\Books.Services\bin\Debug\net8.0\Books.Services.dll
+D:\Summer Internship\Book_Management\Books.Services\bin\Debug\net8.0\Books.Services.pdb
+D:\Summer Internship\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer Internship\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.AssemblyInfoInputs.cache
+D:\Summer Internship\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.AssemblyInfo.cs
+D:\Summer Internship\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.csproj.CoreCompileInputs.cache
+D:\Summer Internship\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.dll
+D:\Summer Internship\Book_Management\Books.Services\obj\Debug\net8.0\refint\Books.Services.dll
+D:\Summer Internship\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.pdb
+D:\Summer Internship\Book_Management\Books.Services\obj\Debug\net8.0\ref\Books.Services.dll
+D:\Summer Internship\Book_Management\Books.Services\bin\Debug\net8.0\Books.DataAccess.dll
+D:\Summer Internship\Book_Management\Books.Services\bin\Debug\net8.0\Books.DataAccess.pdb
+D:\Summer Internship\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.csproj.AssemblyReference.cache
+D:\Summer Internship\Book_Management\Books.Services\obj\Debug\net8.0\Books.Se.FAF4FFE3.Up2Date
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\bin\Debug\net8.0\Books.Services.deps.json
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\bin\Debug\net8.0\Books.Services.dll
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\bin\Debug\net8.0\Books.Services.pdb
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\bin\Debug\net8.0\Books.DataAccess.dll
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\bin\Debug\net8.0\Books.DataAccess.pdb
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.csproj.AssemblyReference.cache
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.AssemblyInfoInputs.cache
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.AssemblyInfo.cs
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.csproj.CoreCompileInputs.cache
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\obj\Debug\net8.0\Books.Se.FAF4FFE3.Up2Date
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.dll
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\obj\Debug\net8.0\refint\Books.Services.dll
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\obj\Debug\net8.0\Books.Services.pdb
+C:\Users\keyur\Desktop\TatvaSoft Summer Internship\DAY 4\Book_Management\Books.Services\obj\Debug\net8.0\ref\Books.Services.dll

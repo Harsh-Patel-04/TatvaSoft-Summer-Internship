@@ -1,0 +1,621 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.services\\services\\missionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\services\\missionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.repositories\\irepositories\\imissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\irepositories\\imissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.services\\iservices\\imissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservices\\imissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.services\\iservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.repositories\\repositories\\missionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\missionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.services\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.entities\\entities\\missions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\entities\\missions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.entities\\models\\missionviewmodel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\missionviewmodel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.services\\services\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\services\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.entities\\models\\adduserdetailsrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\adduserdetailsrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.entities\\models\\missionrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\missionrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.entities\\models\\missionapplicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\missionapplicationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.entities\\entities\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\entities\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.repositories\\repositories\\commonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\commonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.repositories\\irepositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\irepositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.entities\\models\\userupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\userupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.entities\\models\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.repositories\\irepositories\\imissionthemerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\irepositories\\imissionthemerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.entities\\models\\userprofileresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\userprofileresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.repositories\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.services\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.repositories\\repositories\\missionthemerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\missionthemerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.entities\\context\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\context\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.repositories\\irepositories\\icommonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\irepositories\\icommonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.services\\iservices\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02856F4D-402C-4547-96A4-1412D5C66B37}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservices\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\mission\\mission-12\\mission\\mission.entities\\migrations\\20250611082108_user-skills-and-details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BB6B5-95A8-400C-AE6A-745E2AE93471}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250611082108_user-skills-and-details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MissionService.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\Services\\MissionService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\MissionService.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\Services\\MissionService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\MissionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T04:08:55.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\Services\\LoginService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\LoginService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:27:51.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\IServices\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\IServices\\ILoginService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:27:17.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMissionService.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\IServices\\IMissionService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\IMissionService.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\IServices\\IMissionService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\IMissionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T04:12:16.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\IRepositories\\IMissionRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\IMissionRepository.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\IRepositories\\IMissionRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\IMissionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T04:08:28.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\MissionController.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\MissionController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:58:54.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission\\appsettings.json",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission\\appsettings.json",
+              "RelativeToolTip": "Mission\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T08:06:14.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\Repositories\\MissionRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\MissionRepository.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\Repositories\\MissionRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\MissionRepository.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAAPcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:22:27.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Missions.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Entities\\Missions.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\Missions.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Entities\\Missions.cs",
+              "RelativeToolTip": "Mission.Entities\\Entities\\Missions.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:15:20.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MissionViewModel .cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\MissionViewModel .cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\MissionViewModel .cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\MissionViewModel .cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\MissionViewModel .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:53:02.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwIEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:29:55.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:30:56.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommonService.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\Services\\CommonService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\CommonService.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\Services\\CommonService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\CommonService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAArwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:27:36.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:21:10.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:11:13.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\CommonController.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\CommonController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAUwLwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:27:44.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:03:43.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddUserDetailsRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\AddUserDetailsRequestModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\AddUserDetailsRequestModel.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\AddUserDetailsRequestModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\AddUserDetailsRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:59:07.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MissionRequestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\MissionRequestViewModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\MissionRequestViewModel.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\MissionRequestViewModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\MissionRequestViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:54:32.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MissionApplicationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\MissionApplicationViewModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\MissionApplicationViewModel.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\MissionApplicationViewModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\MissionApplicationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T04:04:22.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDetail.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Entities\\UserDetail.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Entities\\UserDetail.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Entities\\UserDetail.cs",
+              "RelativeToolTip": "Mission.Entities\\Entities\\UserDetail.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:11:36.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CommonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\Repositories\\CommonRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\CommonRepository.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\Repositories\\CommonRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\CommonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:25:23.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\UserResponseModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\UserResponseModel.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\UserResponseModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\UserResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:14:25.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\UserUpdateModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\UserUpdateModel.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\UserUpdateModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\UserUpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:42:35.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:24:30.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMissionThemeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\IRepositories\\IMissionThemeRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\IMissionThemeRepository.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\IRepositories\\IMissionThemeRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\IMissionThemeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:22:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserProfileResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\UserProfileResponseModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\UserProfileResponseModel.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Models\\UserProfileResponseModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\UserProfileResponseModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:24:39.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\IServices\\IUserService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:32:32.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:32:59.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MissionThemeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\Repositories\\MissionThemeRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\MissionThemeRepository.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\Repositories\\MissionThemeRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\MissionThemeRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:19:31.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission\\Program.cs",
+              "RelativeDocumentMoniker": "Mission\\Program.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission\\Program.cs",
+              "RelativeToolTip": "Mission\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:27:12.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MissionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Context\\MissionDbContext.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Context\\MissionDbContext.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Context\\MissionDbContext.cs",
+              "RelativeToolTip": "Mission.Entities\\Context\\MissionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:04:46.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICommonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\IRepositories\\ICommonRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\ICommonRepository.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Repositories\\IRepositories\\ICommonRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\ICommonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:23:49.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICommonService.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\IServices\\ICommonService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\ICommonService.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Services\\IServices\\ICommonService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\ICommonService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:26:59.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250611082108_user-skills-and-details.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Migrations\\20250611082108_user-skills-and-details.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250611082108_user-skills-and-details.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\Mission\\Mission-12\\Mission\\Mission.Entities\\Migrations\\20250611082108_user-skills-and-details.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250611082108_user-skills-and-details.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:21:09.141Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

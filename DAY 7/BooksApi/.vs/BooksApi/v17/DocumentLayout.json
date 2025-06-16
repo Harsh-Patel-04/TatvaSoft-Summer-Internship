@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 7\\BooksApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAB21C-5370-452D-BEC0-734A9090C1B7}|BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 7\\booksapi\\booksapi.entities\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AAB21C-5370-452D-BEC0-734A9090C1B7}|BooksApi.Entities\\BooksApi.Entities.csproj|solutionrelative:booksapi.entities\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 7\\booksapi\\booksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAB21C-5370-452D-BEC0-734A9090C1B7}|BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 7\\booksapi\\booksapi.entities\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AAB21C-5370-452D-BEC0-734A9090C1B7}|BooksApi.Entities\\BooksApi.Entities.csproj|solutionrelative:booksapi.entities\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAB21C-5370-452D-BEC0-734A9090C1B7}|BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 7\\booksapi\\booksapi.entities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AAB21C-5370-452D-BEC0-734A9090C1B7}|BooksApi.Entities\\BooksApi.Entities.csproj|solutionrelative:booksapi.entities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAB21C-5370-452D-BEC0-734A9090C1B7}|BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 7\\booksapi\\booksapi.entities\\entities\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AAB21C-5370-452D-BEC0-734A9090C1B7}|BooksApi.Entities\\BooksApi.Entities.csproj|solutionrelative:booksapi.entities\\entities\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 7\\BooksApi\\BooksApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BooksApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 7\\BooksApi\\BooksApi\\appsettings.Development.json",
+              "RelativeToolTip": "BooksApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T08:17:23.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 7\\BooksApi\\BooksApi.Entities\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BooksApi.Entities\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 7\\BooksApi\\BooksApi.Entities\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BooksApi.Entities\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:14:20.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 7\\BooksApi\\BooksApi.Entities\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BooksApi.Entities\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 7\\BooksApi\\BooksApi.Entities\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BooksApi.Entities\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:14:14.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 7\\BooksApi\\BooksApi.Entities\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BooksApi.Entities\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 7\\BooksApi\\BooksApi.Entities\\Entities\\User.cs",
+              "RelativeToolTip": "BooksApi.Entities\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:14:02.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDetails.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 7\\BooksApi\\BooksApi.Entities\\Entities\\BookDetails.cs",
+              "RelativeDocumentMoniker": "BooksApi.Entities\\Entities\\BookDetails.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 7\\BooksApi\\BooksApi.Entities\\Entities\\BookDetails.cs",
+              "RelativeToolTip": "BooksApi.Entities\\Entities\\BookDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:13:53.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

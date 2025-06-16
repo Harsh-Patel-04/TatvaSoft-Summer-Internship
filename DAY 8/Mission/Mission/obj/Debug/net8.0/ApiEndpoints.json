@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "Mission.Controllers.AdminUserController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/AdminUser/DeleteUser",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mission.Controllers.AdminUserController",
+    "Method": "UserDetailList",
+    "RelativePath": "api/AdminUser/UserDetailList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mission.Controllers.LoginController",
+    "Method": "LoginUser",
+    "RelativePath": "api/Login/LoginUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Mission.Entities.Models.LoginUserRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mission.Entities.ResponseResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Mission.Controllers.LoginController",
+    "Method": "Register",
+    "RelativePath": "api/Login/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Mission.Entities.Models.RegisterUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

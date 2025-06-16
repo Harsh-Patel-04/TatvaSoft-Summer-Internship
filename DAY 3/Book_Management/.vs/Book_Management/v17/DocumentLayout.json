@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44B41B57-46F6-4DE2-8F44-6FD1A02002C6}|Book_Management\\Book_Management.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 3\\book_management\\book_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B41B57-46F6-4DE2-8F44-6FD1A02002C6}|Book_Management\\Book_Management.csproj|solutionrelative:book_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B41B57-46F6-4DE2-8F44-6FD1A02002C6}|Book_Management\\Book_Management.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 3\\book_management\\book_management\\book_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44B41B57-46F6-4DE2-8F44-6FD1A02002C6}|Book_Management\\Book_Management.csproj|solutionrelative:book_management\\book_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DC0AB3-5C96-45E1-98A0-B25077472EA5}|Books.Services\\Books.Services.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 3\\book_management\\books.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DC0AB3-5C96-45E1-98A0-B25077472EA5}|Books.Services\\Books.Services.csproj|solutionrelative:books.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771C85A9-4380-4787-B6EB-8BC7E7E6A6BC}|Books.Models\\Books.Models.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 3\\book_management\\books.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771C85A9-4380-4787-B6EB-8BC7E7E6A6BC}|Books.Models\\Books.Models.csproj|solutionrelative:books.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B41B57-46F6-4DE2-8F44-6FD1A02002C6}|Book_Management\\Book_Management.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 3\\book_management\\book_management\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B41B57-46F6-4DE2-8F44-6FD1A02002C6}|Book_Management\\Book_Management.csproj|solutionrelative:book_management\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B41B57-46F6-4DE2-8F44-6FD1A02002C6}|Book_Management\\Book_Management.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 3\\book_management\\book_management\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B41B57-46F6-4DE2-8F44-6FD1A02002C6}|Book_Management\\Book_Management.csproj|solutionrelative:book_management\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B41B57-46F6-4DE2-8F44-6FD1A02002C6}|Book_Management\\Book_Management.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 3\\book_management\\book_management\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B41B57-46F6-4DE2-8F44-6FD1A02002C6}|Book_Management\\Book_Management.csproj|solutionrelative:book_management\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B41B57-46F6-4DE2-8F44-6FD1A02002C6}|Book_Management\\Book_Management.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 3\\book_management\\book_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44B41B57-46F6-4DE2-8F44-6FD1A02002C6}|Book_Management\\Book_Management.csproj|solutionrelative:book_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book_Management.csproj",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Book_Management\\Book_Management.csproj",
+              "RelativeDocumentMoniker": "Book_Management\\Book_Management.csproj",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Book_Management\\Book_Management.csproj",
+              "RelativeToolTip": "Book_Management\\Book_Management.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T05:35:57.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Books.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "Books.Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Books.Services\\Class1.cs",
+              "RelativeToolTip": "Books.Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T05:36:20.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Books.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "Books.Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Books.Models\\Class1.cs",
+              "RelativeToolTip": "Books.Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T05:35:53.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Book_Management\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Book_Management\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Book_Management\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Book_Management\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:57:40.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Book_Management\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Book_Management\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Book_Management\\Services\\BookService.cs",
+              "RelativeToolTip": "Book_Management\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:53:34.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Book_Management\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Book_Management\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Book_Management\\Models\\Book.cs",
+              "RelativeToolTip": "Book_Management\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:51:56.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Book_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Book_Management\\Program.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Book_Management\\Program.cs",
+              "RelativeToolTip": "Book_Management\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAArwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:46:52.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Book_Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Book_Management\\appsettings.json",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 3\\Book_Management\\Book_Management\\appsettings.json",
+              "RelativeToolTip": "Book_Management\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T04:45:32.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

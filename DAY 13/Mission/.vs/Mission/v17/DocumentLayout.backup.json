@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 13\\Mission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 13\\mission\\mission\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 13\\mission\\mission\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 13\\mission\\mission.repositories\\repositories\\missionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69E46A-A7FF-4366-B476-0A10333B1193}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\missionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 13\\mission\\mission\\controllers\\clientmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\controllers\\clientmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|c:\\users\\keyur\\desktop\\tatvasoft summer internship\\day 13\\mission\\mission\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D752E97-71FD-467F-A411-227ADAB7B29B}|Mission\\Mission.csproj|solutionrelative:mission\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 13\\Mission\\Mission\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\CommonController.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 13\\Mission\\Mission\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\CommonController.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAkwMkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:45:26.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 13\\Mission\\Mission\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\MissionController.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 13\\Mission\\Mission\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\MissionController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:48:57.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 13\\Mission\\Mission.Repositories\\Repositories\\MissionRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\MissionRepository.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 13\\Mission\\Mission.Repositories\\Repositories\\MissionRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\MissionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:53:32.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 13\\Mission\\Mission\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 13\\Mission\\Mission\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwCkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:48:53.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientMissionController.cs",
+              "DocumentMoniker": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 13\\Mission\\Mission\\Controllers\\ClientMissionController.cs",
+              "RelativeDocumentMoniker": "Mission\\Controllers\\ClientMissionController.cs",
+              "ToolTip": "C:\\Users\\keyur\\Desktop\\TatvaSoft Summer Internship\\DAY 13\\Mission\\Mission\\Controllers\\ClientMissionController.cs",
+              "RelativeToolTip": "Mission\\Controllers\\ClientMissionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:48:49.56Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
